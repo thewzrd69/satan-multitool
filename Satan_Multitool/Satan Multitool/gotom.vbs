@@ -1,0 +1,1 @@
+variable=msgbox ("Please select a fucking number that's 1-6. - Press enter or press ok",0+48,")
